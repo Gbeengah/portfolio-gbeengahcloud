@@ -117,7 +117,7 @@ export function Footer() {
             © {new Date().getFullYear()} GbengaCloud. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
-            Built with Next.js & deployed on Vercel
+            Built to showcase cloud engineering, automation, and DevOps projects.
           </p>
         </div>
       </div>
